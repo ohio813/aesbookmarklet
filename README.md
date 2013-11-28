@@ -3,4 +3,4 @@ AES Bookmarklet
 
 Encrypt / Decrypt message with AES 256
 
-<a href="https://raw.github.com/guelfoweb/aesbookmarklet/master/function.js">Show function source code</a>
+<a href="https://github.com/guelfoweb/aesbookmarklet/blob/master/bookmarklet.js">Show function source code</a>
